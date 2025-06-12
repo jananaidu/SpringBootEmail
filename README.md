@@ -23,6 +23,10 @@ Implemented robust exception handling to handle failures like SMTP issues or inv
 Logged all transactions using SLF4J to support monitoring and debugging.
 
 💡 Outcome & Impact
+
+https://github.com/user-attachments/assets/69325080-35a9-4b9b-9c86-7bdc90867f1b
+
+
 ⏱️ Automated email workflows, reducing manual intervention.
 
 📬 Enabled delivery of formatted, file-based communications.
